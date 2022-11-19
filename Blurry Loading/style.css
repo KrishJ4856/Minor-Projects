@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#imgSection{
+    background-image: url('dell.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    filter: blur(10px);
+}
+#loading{
+    font-weight: bold;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    /* filter: blur(1px); */
+    opacity: 1;
+}
+/* 0 - 10px
+10 - 9px
+20 - 8px
+30 - 7px */
+
+/* 10% jump - 1px reduce
+1%jump - 0.1px reduce */
