@@ -6,3 +6,5 @@ Links to the Projects:
 1. [Blurry Loading](https://blurry-loading-kj4856.netlify.app/)
 2. [Double Vertical Slider](https://double-vertical-slider-kj4856.netlify.app/) 
 3. [Random Choice Picker](https://random-choice-picker-kj4856.netlify.app/) 
+4. [Live User Filter](https://live-user-filter-krish4856.netlify.app/) 
+5. [Skeleton Loading](https://skeleton-loading-krish4856.netlify.app/) 
