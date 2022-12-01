@@ -8,3 +8,4 @@ Links to the Projects:
 3. [Random Choice Picker](https://random-choice-picker-kj4856.netlify.app/) 
 4. [Live User Filter](https://live-user-filter-krish4856.netlify.app/) 
 5. [Skeleton Loading](https://skeleton-loading-krish4856.netlify.app/) 
+5. [To Do App](https://todo-app-krish4856.netlify.app/) 
